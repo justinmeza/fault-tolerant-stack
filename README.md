@@ -1,4 +1,4 @@
-# Fault Tolerant Stacks
+# A Fault Tolerant Stack
 
 ### The Problem
 
