@@ -222,6 +222,11 @@ void ftstack_print(struct ftstack *fts)
 	}
 }
 
+void ftstack_reconstruct(struct ftstack *fts)
+{
+	/** TODO: implement this */
+}
+
 int main(void)
 {
 	struct ftstack *fts = ftstack_create(4);
